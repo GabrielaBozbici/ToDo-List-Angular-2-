@@ -1,0 +1,11 @@
+h2, h3, ul, form {
+    text-align: center;
+}
+ul li {
+    list-style: none;
+}
+button {
+    background-color: #ff4081;
+    border: none;
+    color: #fff;
+}
